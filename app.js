@@ -41,3 +41,9 @@ for(i = 1; i < 11; i++){
 }
 
 alert('1から10まで足し算した結果は' + num_for + 'です');
+
+max = orange + apple
+count = orange - apple
+
+alert('足算：' + max + ',引き算:' + count);
+alert('掛け算：' + orange * apple + ',割り算:' + orange / apple);
